@@ -1,16 +1,13 @@
-### Hi there 👋
+### Cuồng Anime
 
-<!--
-**cuonganime1/cuonganime1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Cuồng Anime: Trang Web Dành Riêng Cho Các Otaku Chân Chính
 
-Here are some ideas to get you started:
+Cuồng Anime nơi tận hưởng trọn vẹn thế giới Anime với những thông tin nóng hổi về các bộ phim, truyện mới nhất và sự quan tâm đông đảo từ cộng đồng người hâm mộ.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+https://cuonganime.com/
+
+https://twitter.com/cuonganime1
+
+https://www.pinterest.com/cuonganime1/
+
+https://www.youtube.com/channel/UCKeYZ-EetCDpxedCEjgQ2sg
